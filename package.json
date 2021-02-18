@@ -1,0 +1,25 @@
+{
+  "name": "xsi0api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dragos1221/Xsi0api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dragos1221/Xsi0api/issues"
+  },
+  "homepage": "https://github.com/Dragos1221/Xsi0api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "socket.io": "^3.1.1",
+    "uuid": "^8.3.2"
+  }
+}
